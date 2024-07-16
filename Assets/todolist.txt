@@ -1,0 +1,22 @@
+X - smooth movement
+X - movable crates
+X - fix border generator
+X - inventory system
+X - levelscene system
+X - weapons
+X - lighting system
+X - enemies
+X - more stuff
+X - pet would be cool (nah actually)
+X - dialog system
+X - item pickup system
+  - doors player can go through, but cant see through
+X - doom like UI (ammo, armor, hp, and face cam in ascii)
+
+  IMPORTANT STUFF TO ADD!!!:
+X - levelobject dialog integration (LevelObject has List<Dialog>)
+X - pick-up-able items
+X - go to door to another level
+  - more levels (some logic ones and some combat ones)
+  - more sound effects
+  - main menu
